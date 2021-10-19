@@ -1,0 +1,4361 @@
+[
+     {
+          "aliment": " Sos de soia premium Cholimex",
+          "calorii": "9",
+          "proteine": "1.9",
+          "lipide": "0",
+          "carbohidrati": "0.2",
+          "fibre": "0",
+          "aproximari": "1 sticla = 500 ml"
+     },
+     {
+          "aliment": "Arpagic proaspat",
+          "calorii": "32",
+          "proteine": "1.8",
+          "lipide": "0.2",
+          "carbohidrati": "7.3",
+          "fibre": "2.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancare cu gust de gaina Delikat",
+          "calorii": "124.9",
+          "proteine": "8.4",
+          "lipide": "0.9",
+          "carbohidrati": "20.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancare gust de gaina Gustul de acasa Deli'Kat ",
+          "calorii": "140",
+          "proteine": "8",
+          "lipide": "0.9",
+          "carbohidrati": "19",
+          "fibre": "2.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancaruri Mirodenia Fuchs",
+          "calorii": "124",
+          "proteine": "5.3",
+          "lipide": "2",
+          "carbohidrati": "21.2",
+          "fibre": "9.8",
+          "aproximari": "1 plic = 75 g"
+     },
+     {
+          "aliment": "Bors cu verdeturi Magic Delikat",
+          "calorii": "227",
+          "proteine": "4.5",
+          "lipide": "4.5",
+          "carbohidrati": "32",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Busuioc uscat",
+          "calorii": "251",
+          "proteine": "14.4",
+          "lipide": "4",
+          "carbohidrati": "61",
+          "fibre": "40.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cacao calitate extra Dr. Oetker",
+          "calorii": "232",
+          "proteine": "22.3",
+          "lipide": "10.8",
+          "carbohidrati": "11.6",
+          "fibre": "0",
+          "aproximari": "1 plic = 50 g"
+     },
+     {
+          "aliment": "Cacao Van Houten",
+          "calorii": "366",
+          "proteine": "20",
+          "lipide": "21",
+          "carbohidrati": "8.7",
+          "fibre": "28",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cardamon",
+          "calorii": "311",
+          "proteine": "10.8",
+          "lipide": "6.7",
+          "carbohidrati": "68.5",
+          "fibre": "28",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Chili pudra",
+          "calorii": "314",
+          "proteine": "12.3",
+          "lipide": "16.8",
+          "carbohidrati": "54.7",
+          "fibre": "34.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cimbru uscat",
+          "calorii": "272",
+          "proteine": "7",
+          "lipide": "6",
+          "carbohidrati": "69",
+          "fibre": "46",
+          "aproximari": "1 lingurita = 1.4 g"
+     },
+     {
+          "aliment": "Condiment carne porc Galeo",
+          "calorii": "170",
+          "proteine": "10",
+          "lipide": "6.3",
+          "carbohidrati": "19",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condiment pentru pui Fuchs",
+          "calorii": "133",
+          "proteine": "7.3",
+          "lipide": "3.5",
+          "carbohidrati": "15.5",
+          "fibre": "5.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente cartofi cu sunca la cuptor Maggi",
+          "calorii": "338",
+          "proteine": "9.8",
+          "lipide": "13.5",
+          "carbohidrati": "43.9",
+          "fibre": "2.7",
+          "aproximari": "1 plic = 50 g"
+     },
+     {
+          "aliment": "Condimente pentru coaste la gratar Maggi",
+          "calorii": "262",
+          "proteine": "11.4",
+          "lipide": "3.2",
+          "carbohidrati": "43.9",
+          "fibre": "5.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente Secretul Gustului verdeturi Maggi",
+          "calorii": "124",
+          "proteine": "6.8",
+          "lipide": "3.2",
+          "carbohidrati": "16.2",
+          "fibre": "1.4",
+          "aproximari": "1 punga = 200 g"
+     },
+     {
+          "aliment": "Coriandru uscat",
+          "calorii": "279",
+          "proteine": "21.9",
+          "lipide": "4.8",
+          "carbohidrati": "52.1",
+          "fibre": "10.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cuburi bulion Gallina Blanca",
+          "calorii": "186",
+          "proteine": "3.9",
+          "lipide": "9",
+          "carbohidrati": "21.4",
+          "fibre": "0",
+          "aproximari": "1 cub = 10 g"
+     },
+     {
+          "aliment": "Curry pudra",
+          "calorii": "325",
+          "proteine": "14.3",
+          "lipide": "14",
+          "carbohidrati": "55.9",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Drojdie proaspata",
+          "calorii": "105",
+          "proteine": "8.4",
+          "lipide": "1.9",
+          "carbohidrati": "18.1",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Dulceata de ardei iute Bunatati de Topoloveni",
+          "calorii": "236.1",
+          "proteine": "0.5",
+          "lipide": "0",
+          "carbohidrati": "57",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Frunze de patrunjel",
+          "calorii": "36",
+          "proteine": "3",
+          "lipide": "0.8",
+          "carbohidrati": "6.3",
+          "fibre": "3.3",
+          "aproximari": "1 legatura = 30 g"
+     },
+     {
+          "aliment": "Ghimbir macinat Kotanyi",
+          "calorii": "316",
+          "proteine": "7.4",
+          "lipide": "3.3",
+          "carbohidrati": "60",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Granule usturoi",
+          "calorii": "332",
+          "proteine": "16.8",
+          "lipide": "0.8",
+          "carbohidrati": "72.7",
+          "fibre": "9.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ideea zilei baza pentru pui fraget cu usturoi Maggi",
+          "calorii": "112",
+          "proteine": "11.1",
+          "lipide": "6.6",
+          "carbohidrati": "2.1",
+          "fibre": "0.2",
+          "aproximari": "1 plic = 36 g"
+     },
+     {
+          "aliment": "Indulcitor de masa natural Steviolina",
+          "calorii": "362",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "90",
+          "fibre": "1",
+          "aproximari": "1 lingurita = 2.5 g"
+     },
+     {
+          "aliment": "Jeleuri de ghimbir Sanovita",
+          "calorii": "365.8",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "90.2",
+          "fibre": "2.4",
+          "aproximari": "1 cutie = 100 g"
+     },
+     {
+          "aliment": "Ketchup Bavaria Hellmann's",
+          "calorii": "105",
+          "proteine": "1.6",
+          "lipide": "0.1",
+          "carbohidrati": "24",
+          "fibre": "0.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup dulce Olympia",
+          "calorii": "49",
+          "proteine": "1",
+          "lipide": "0",
+          "carbohidrati": "11.2",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup picant Heinz Hot",
+          "calorii": "104",
+          "proteine": "1",
+          "lipide": "0.1",
+          "carbohidrati": "24.2",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Leustean",
+          "calorii": "37",
+          "proteine": "3",
+          "lipide": "0.8",
+          "carbohidrati": "6.4",
+          "fibre": "2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Maioneza cu ou 365",
+          "calorii": "727",
+          "proteine": "1.2",
+          "lipide": "80.1",
+          "carbohidrati": "0.4",
+          "fibre": "0",
+          "aproximari": "1 borcan = 470 g"
+     },
+     {
+          "aliment": "Marar uscat",
+          "calorii": "253",
+          "proteine": "20",
+          "lipide": "4.4",
+          "carbohidrati": "55.8",
+          "fibre": "13.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar",
+          "calorii": "67",
+          "proteine": "4",
+          "lipide": "4",
+          "carbohidrati": "5",
+          "fibre": "3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Bunica",
+          "calorii": "113",
+          "proteine": "5",
+          "lipide": "5",
+          "carbohidrati": "12",
+          "fibre": "2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Kamis",
+          "calorii": "97",
+          "proteine": "5.1",
+          "lipide": "5.7",
+          "carbohidrati": "6.4",
+          "fibre": "1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic la borcan Carrefour",
+          "calorii": "114.4",
+          "proteine": "4",
+          "lipide": "6.6",
+          "carbohidrati": "9.7",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Maggi",
+          "calorii": "75",
+          "proteine": "5.4",
+          "lipide": "5.2",
+          "carbohidrati": "4.5",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Regal",
+          "calorii": "117",
+          "proteine": "4",
+          "lipide": "4.5",
+          "carbohidrati": "14",
+          "fibre": "2.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Dijon Kamis",
+          "calorii": "146",
+          "proteine": "7.4",
+          "lipide": "11",
+          "carbohidrati": "2.8",
+          "fibre": "0",
+          "aproximari": "1n borcan = 185 g"
+     },
+     {
+          "aliment": "Mustar frantuzesc Carrefour",
+          "calorii": "147",
+          "proteine": "8.5",
+          "lipide": "8.2",
+          "carbohidrati": "9.5",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Heinz",
+          "calorii": "116",
+          "proteine": "6.5",
+          "lipide": "6",
+          "carbohidrati": "7.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar K-Classic",
+          "calorii": "110",
+          "proteine": "4.5",
+          "lipide": "6",
+          "carbohidrati": "9",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Nucsoara macinata",
+          "calorii": "525",
+          "proteine": "5.8",
+          "lipide": "36.3",
+          "carbohidrati": "49.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Otet balsamic Modena de nigris 8*",
+          "calorii": "33",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "6.7",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Otet din vin rosu Carrefour",
+          "calorii": "3.1",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "0.7",
+          "fibre": "0",
+          "aproximari": "1 sticla = 750 ml"
+     },
+     {
+          "aliment": "Pasta rodii Durra",
+          "calorii": "85",
+          "proteine": "0",
+          "lipide": "1",
+          "carbohidrati": "19",
+          "fibre": "0.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Piper cayenne chilli",
+          "calorii": "318",
+          "proteine": "12",
+          "lipide": "17.3",
+          "carbohidrati": "56.6",
+          "fibre": "27.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Radacina de turmeric",
+          "calorii": "354",
+          "proteine": "8",
+          "lipide": "10",
+          "carbohidrati": "65",
+          "fibre": "21.1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Rozmarin uscat",
+          "calorii": "331",
+          "proteine": "4.9",
+          "lipide": "15.2",
+          "carbohidrati": "64.1",
+          "fibre": "42.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Sare  cu ierburi Bio Greno",
+          "calorii": "39",
+          "proteine": "1.6",
+          "lipide": "1.6",
+          "carbohidrati": "4.3",
+          "fibre": "3.5",
+          "aproximari": "1 cutie = 125 g"
+     },
+     {
+          "aliment": "Scortisoara macinata",
+          "calorii": "261",
+          "proteine": "3.9",
+          "lipide": "3.2",
+          "carbohidrati": "79.8",
+          "fibre": "54.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Scortisoara macinata HoReCa",
+          "calorii": "317",
+          "proteine": "3.9",
+          "lipide": "3.2",
+          "carbohidrati": "56",
+          "fibre": "0",
+          "aproximari": "1 cutie = 250 g"
+     },
+     {
+          "aliment": "Sofran",
+          "calorii": "310",
+          "proteine": "11.4",
+          "lipide": "5.8",
+          "carbohidrati": "65.4",
+          "fibre": "3.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Tarhon frunze uscate",
+          "calorii": "295",
+          "proteine": "23",
+          "lipide": "7",
+          "carbohidrati": "50",
+          "fibre": "7",
+          "aproximari": "1 lingurita = 1 g"
+     },
+     {
+          "aliment": "Turmeric Sunlit",
+          "calorii": "422",
+          "proteine": "21.1",
+          "lipide": "9.9",
+          "carbohidrati": "64.9",
+          "fibre": "5",
+          "aproximari": "1 punga = 200 g"
+     },
+     {
+          "aliment": "Tzatziki Dr.Oetcker",
+          "calorii": "131",
+          "proteine": "3.5",
+          "lipide": "9.8",
+          "carbohidrati": "7.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Usturoi uscat",
+          "calorii": "331",
+          "proteine": "16.6",
+          "lipide": "0.7",
+          "carbohidrati": "72.7",
+          "fibre": "9",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Zahar aromat cu gust de scortisoara Bak Family",
+          "calorii": "398",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "99.5",
+          "fibre": "0",
+          "aproximari": " 1 cutie = 350 g"
+     },
+     {
+          "aliment": "Zahar pudra Margaritar",
+          "calorii": "389",
+          "proteine": "0",
+          "lipide": "0.1",
+          "carbohidrati": "99.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Adaos pentru mancaruri cu gust de gaina Vegeta Podravka",
+          "calorii": "148",
+          "proteine": "9.8",
+          "lipide": "0.5",
+          "carbohidrati": "26",
+          "fibre": "0",
+          "aproximari": "1 punga = 500 g"
+     },
+     {
+          "aliment": "Baza pentru aripioare picante Ideea Zilei Crocant din cuptor Maggie",
+          "calorii": "378",
+          "proteine": "12.6",
+          "lipide": "7.3",
+          "carbohidrati": "63",
+          "fibre": "4.7",
+          "aproximari": "1 punga = 80 g"
+     },
+     {
+          "aliment": "Baza pentru mancare cu legume Gustul de acasa Deli'Kat",
+          "calorii": "170",
+          "proteine": "7",
+          "lipide": "0.8",
+          "carbohidrati": "29",
+          "fibre": "3.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancare legume Delikat",
+          "calorii": "120.3",
+          "proteine": "6.7",
+          "lipide": "0.7",
+          "carbohidrati": "21.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Boia de ardei dulce",
+          "calorii": "274",
+          "proteine": "14",
+          "lipide": "13.2",
+          "carbohidrati": "55",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Bors Magic cu legume Delikat",
+          "calorii": "199",
+          "proteine": "6",
+          "lipide": "0.8",
+          "carbohidrati": "24",
+          "fibre": "4",
+          "aproximari": "1 punga =  70 g"
+     },
+     {
+          "aliment": "Busuioc verde",
+          "calorii": "27",
+          "proteine": "2.5",
+          "lipide": "0.6",
+          "carbohidrati": "4.3",
+          "fibre": "3.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cacao neagra Witor's",
+          "calorii": "376",
+          "proteine": "18.9",
+          "lipide": "23",
+          "carbohidrati": "8.8",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Capere conservate",
+          "calorii": "23",
+          "proteine": "2.4",
+          "lipide": "0.9",
+          "carbohidrati": "4.9",
+          "fibre": "3.2",
+          "aproximari": "1 lingura = 5 g"
+     },
+     {
+          "aliment": "Ceapa deshidratata Fruit Orchard",
+          "calorii": "391",
+          "proteine": "8.9",
+          "lipide": "0.5",
+          "carbohidrati": "83.3",
+          "fibre": "45.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Chimen seminte",
+          "calorii": "333",
+          "proteine": "19.8",
+          "lipide": "14.6",
+          "carbohidrati": "49.9",
+          "fibre": "38",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cimbru verde",
+          "calorii": "101",
+          "proteine": "5.6",
+          "lipide": "1.7",
+          "carbohidrati": "24.5",
+          "fibre": "14",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condiment cu ulei de masline Adazia",
+          "calorii": "106.2",
+          "proteine": "3.6",
+          "lipide": "0.3",
+          "carbohidrati": "22.2",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente amaranth Bio Solaris Plant",
+          "calorii": "374",
+          "proteine": "14.4",
+          "lipide": "6.5",
+          "carbohidrati": "66",
+          "fibre": "9.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente dressing garden - K Classic Kaufland",
+          "calorii": "25",
+          "proteine": "0.1",
+          "lipide": "0.1",
+          "carbohidrati": "5.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente Secretul Gustului legume Maggi",
+          "calorii": "91",
+          "proteine": "5.2",
+          "lipide": "1.8",
+          "carbohidrati": "11.5",
+          "fibre": "0.6",
+          "aproximari": "200 gr punga"
+     },
+     {
+          "aliment": "Coriandru frunze",
+          "calorii": "23",
+          "proteine": "2.1",
+          "lipide": "0.5",
+          "carbohidrati": "3.7",
+          "fibre": "2.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Crema balsamica de Modena",
+          "calorii": "153",
+          "proteine": "1.4",
+          "lipide": "0.8",
+          "carbohidrati": "32.5",
+          "fibre": "0.2",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Cuisoare",
+          "calorii": "323",
+          "proteine": "6",
+          "lipide": "20.1",
+          "carbohidrati": "61.2",
+          "fibre": "34.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Delik'at Gustul de acasa legume",
+          "calorii": "120.3",
+          "proteine": "6.7",
+          "lipide": "0.7",
+          "carbohidrati": "21.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Drojdie uscata",
+          "calorii": "295",
+          "proteine": "38.3",
+          "lipide": "4.6",
+          "carbohidrati": "38.2",
+          "fibre": "21",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Enibahar boabe",
+          "calorii": "263",
+          "proteine": "6.1",
+          "lipide": "8.7",
+          "carbohidrati": "72.1",
+          "fibre": "21.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ghimbir macinat",
+          "calorii": "347",
+          "proteine": "9.1",
+          "lipide": "6",
+          "carbohidrati": "70.8",
+          "fibre": "12.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ghimbir proaspat",
+          "calorii": "80",
+          "proteine": "1.8",
+          "lipide": "0.8",
+          "carbohidrati": "17.8",
+          "fibre": "2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Hrean Pilos",
+          "calorii": "324",
+          "proteine": "3",
+          "lipide": "32",
+          "carbohidrati": "7",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ideea zilei baza pentru spaghete carbonara Maggi",
+          "calorii": "416",
+          "proteine": "13",
+          "lipide": "18.7",
+          "carbohidrati": "47.6",
+          "fibre": "3.4",
+          "aproximari": "1 punga = 40 g"
+     },
+     {
+          "aliment": "Inlocuitor lapte pudra pentru cafea Coffeeta",
+          "calorii": "517",
+          "proteine": "0.9",
+          "lipide": "73.4",
+          "carbohidrati": "24",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup",
+          "calorii": "109",
+          "proteine": "2",
+          "lipide": "0.3",
+          "carbohidrati": "24",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup dulce Gustile",
+          "calorii": "101",
+          "proteine": "0.5",
+          "lipide": "0.1",
+          "carbohidrati": "24.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup dulce Regal",
+          "calorii": "77",
+          "proteine": "0.7",
+          "lipide": "0",
+          "carbohidrati": "18.6",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Ketchup picant Regal",
+          "calorii": "80",
+          "proteine": "1",
+          "lipide": "0.1",
+          "carbohidrati": "18.5",
+          "fibre": "0.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Maghiran uscat",
+          "calorii": "271",
+          "proteine": "12.7",
+          "lipide": "7",
+          "carbohidrati": "60.6",
+          "fibre": "40.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Marar",
+          "calorii": "43",
+          "proteine": "3.5",
+          "lipide": "1.1",
+          "carbohidrati": "7",
+          "fibre": "2.1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Menta proaspata",
+          "calorii": "70",
+          "proteine": "3.8",
+          "lipide": "0.9",
+          "carbohidrati": "14.9",
+          "fibre": "8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar  Alimcom",
+          "calorii": "158.5",
+          "proteine": "9.6",
+          "lipide": "8.9",
+          "carbohidrati": "10",
+          "fibre": "0",
+          "aproximari": "1 tub = 100 g"
+     },
+     {
+          "aliment": "Mustar clasic Carrefour",
+          "calorii": "36",
+          "proteine": "4.5",
+          "lipide": "0.4",
+          "carbohidrati": "3.4",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Knorr",
+          "calorii": "105",
+          "proteine": "4.5",
+          "lipide": "5.4",
+          "carbohidrati": "8.4",
+          "fibre": "0.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic La Grande Famiglia",
+          "calorii": "54",
+          "proteine": "4.1",
+          "lipide": "2.4",
+          "carbohidrati": "2.1",
+          "fibre": "0",
+          "aproximari": "1 borcan = 300 g"
+     },
+     {
+          "aliment": "Mustar clasic Polimark",
+          "calorii": "130",
+          "proteine": "5",
+          "lipide": "5.8",
+          "carbohidrati": "14.4",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Dijon Carrefour",
+          "calorii": "147",
+          "proteine": "7.2",
+          "lipide": "11.5",
+          "carbohidrati": "3.6",
+          "fibre": "0",
+          "aproximari": "1 borcan = 270 g"
+     },
+     {
+          "aliment": "Mustar dulce Mikado",
+          "calorii": "102.1",
+          "proteine": "3.8",
+          "lipide": "4.1",
+          "carbohidrati": "10.8",
+          "fibre": "3",
+          "aproximari": "1 borcan = 300 g"
+     },
+     {
+          "aliment": "Mustar grill Benita",
+          "calorii": "131",
+          "proteine": "5",
+          "lipide": "5.8",
+          "carbohidrati": "7.2",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Mustar iute Lowensenf",
+          "calorii": "172",
+          "proteine": "9",
+          "lipide": "12.6",
+          "carbohidrati": "1.6",
+          "fibre": "0",
+          "aproximari": "1 borcan = 250 ml"
+     },
+     {
+          "aliment": "Mustar mici Univer",
+          "calorii": "108",
+          "proteine": "4.1",
+          "lipide": "4.7",
+          "carbohidrati": "10.8",
+          "fibre": "2.4",
+          "aproximari": "1 flacon = 440 g "
+     },
+     {
+          "aliment": "Oregano uscat",
+          "calorii": "306",
+          "proteine": "11",
+          "lipide": "10.3",
+          "carbohidrati": "64.4",
+          "fibre": "42.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Otet de visine Raureni",
+          "calorii": "14",
+          "proteine": "0.7",
+          "lipide": "0.2",
+          "carbohidrati": "2.5",
+          "fibre": "0",
+          "aproximari": "1 sticla = 0,5 l"
+     },
+     {
+          "aliment": "Paprika",
+          "calorii": "289",
+          "proteine": "14.8",
+          "lipide": "13",
+          "carbohidrati": "55.7",
+          "fibre": "37.4",
+          "aproximari": "1 lingurita = 6 g"
+     },
+     {
+          "aliment": "Patrunjel uscat",
+          "calorii": "276",
+          "proteine": "22.4",
+          "lipide": "4.4",
+          "carbohidrati": "51.7",
+          "fibre": "30.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Piper negru",
+          "calorii": "255",
+          "proteine": "11",
+          "lipide": "3.3",
+          "carbohidrati": "64.8",
+          "fibre": "26.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Rozmarin proaspat",
+          "calorii": "131",
+          "proteine": "3.3",
+          "lipide": "5.9",
+          "carbohidrati": "20.7",
+          "fibre": "14.1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Rucola",
+          "calorii": "25",
+          "proteine": "2.6",
+          "lipide": "0.7",
+          "carbohidrati": "3.7",
+          "fibre": "1.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Sare de masa",
+          "calorii": "0",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "0",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Scortisoara macinata Alex",
+          "calorii": "472.6",
+          "proteine": "3.9",
+          "lipide": "3.2",
+          "carbohidrati": "79.9",
+          "fibre": "54.3",
+          "aproximari": "1 plic = 15 g"
+     },
+     {
+          "aliment": "Scortisoara macinata Orlando's",
+          "calorii": "456",
+          "proteine": "4",
+          "lipide": "1.2",
+          "carbohidrati": "80.6",
+          "fibre": "53.1",
+          "aproximari": "1 lingurita rasa = 2 g"
+     },
+     {
+          "aliment": "Sos soia Urtekram",
+          "calorii": "70",
+          "proteine": "8.9",
+          "lipide": "0",
+          "carbohidrati": "8.4",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Tarhon frunze verzi",
+          "calorii": "49",
+          "proteine": "3",
+          "lipide": "1",
+          "carbohidrati": "6",
+          "fibre": "1.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Tzatziki",
+          "calorii": "54",
+          "proteine": "4",
+          "lipide": "0.4",
+          "carbohidrati": "8.6",
+          "fibre": "0.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Usturoi",
+          "calorii": "149",
+          "proteine": "6.4",
+          "lipide": "0.5",
+          "carbohidrati": "33",
+          "fibre": "2.1",
+          "aproximari": "1 graunte = 3 g"
+     },
+     {
+          "aliment": "Vegeta Podravka",
+          "calorii": "137",
+          "proteine": "8.5",
+          "lipide": "0.6",
+          "carbohidrati": "24.5",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 3 g"
+     },
+     {
+          "aliment": "Zahar cristal Diamant",
+          "calorii": "395",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "100",
+          "fibre": "0",
+          "aproximari": ""
+     }
+][
+     {
+          "aliment": " Sos de soia premium Cholimex",
+          "calorii": "9",
+          "proteine": "1.9",
+          "lipide": "0",
+          "carbohidrati": "0.2",
+          "fibre": "0",
+          "aproximari": "1 sticla = 500 ml"
+     },
+     {
+          "aliment": "Arpagic proaspat",
+          "calorii": "32",
+          "proteine": "1.8",
+          "lipide": "0.2",
+          "carbohidrati": "7.3",
+          "fibre": "2.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancare cu gust de gaina Delikat",
+          "calorii": "124.9",
+          "proteine": "8.4",
+          "lipide": "0.9",
+          "carbohidrati": "20.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancare gust de gaina Gustul de acasa Deli'Kat ",
+          "calorii": "140",
+          "proteine": "8",
+          "lipide": "0.9",
+          "carbohidrati": "19",
+          "fibre": "2.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancaruri Mirodenia Fuchs",
+          "calorii": "124",
+          "proteine": "5.3",
+          "lipide": "2",
+          "carbohidrati": "21.2",
+          "fibre": "9.8",
+          "aproximari": "1 plic = 75 g"
+     },
+     {
+          "aliment": "Bors cu verdeturi Magic Delikat",
+          "calorii": "227",
+          "proteine": "4.5",
+          "lipide": "4.5",
+          "carbohidrati": "32",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Busuioc uscat",
+          "calorii": "251",
+          "proteine": "14.4",
+          "lipide": "4",
+          "carbohidrati": "61",
+          "fibre": "40.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cacao calitate extra Dr. Oetker",
+          "calorii": "232",
+          "proteine": "22.3",
+          "lipide": "10.8",
+          "carbohidrati": "11.6",
+          "fibre": "0",
+          "aproximari": "1 plic = 50 g"
+     },
+     {
+          "aliment": "Cacao Van Houten",
+          "calorii": "366",
+          "proteine": "20",
+          "lipide": "21",
+          "carbohidrati": "8.7",
+          "fibre": "28",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cardamon",
+          "calorii": "311",
+          "proteine": "10.8",
+          "lipide": "6.7",
+          "carbohidrati": "68.5",
+          "fibre": "28",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Chili pudra",
+          "calorii": "314",
+          "proteine": "12.3",
+          "lipide": "16.8",
+          "carbohidrati": "54.7",
+          "fibre": "34.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cimbru uscat",
+          "calorii": "272",
+          "proteine": "7",
+          "lipide": "6",
+          "carbohidrati": "69",
+          "fibre": "46",
+          "aproximari": "1 lingurita = 1.4 g"
+     },
+     {
+          "aliment": "Condiment carne porc Galeo",
+          "calorii": "170",
+          "proteine": "10",
+          "lipide": "6.3",
+          "carbohidrati": "19",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condiment pentru pui Fuchs",
+          "calorii": "133",
+          "proteine": "7.3",
+          "lipide": "3.5",
+          "carbohidrati": "15.5",
+          "fibre": "5.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente cartofi cu sunca la cuptor Maggi",
+          "calorii": "338",
+          "proteine": "9.8",
+          "lipide": "13.5",
+          "carbohidrati": "43.9",
+          "fibre": "2.7",
+          "aproximari": "1 plic = 50 g"
+     },
+     {
+          "aliment": "Condimente pentru coaste la gratar Maggi",
+          "calorii": "262",
+          "proteine": "11.4",
+          "lipide": "3.2",
+          "carbohidrati": "43.9",
+          "fibre": "5.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente Secretul Gustului verdeturi Maggi",
+          "calorii": "124",
+          "proteine": "6.8",
+          "lipide": "3.2",
+          "carbohidrati": "16.2",
+          "fibre": "1.4",
+          "aproximari": "1 punga = 200 g"
+     },
+     {
+          "aliment": "Coriandru uscat",
+          "calorii": "279",
+          "proteine": "21.9",
+          "lipide": "4.8",
+          "carbohidrati": "52.1",
+          "fibre": "10.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cuburi bulion Gallina Blanca",
+          "calorii": "186",
+          "proteine": "3.9",
+          "lipide": "9",
+          "carbohidrati": "21.4",
+          "fibre": "0",
+          "aproximari": "1 cub = 10 g"
+     },
+     {
+          "aliment": "Curry pudra",
+          "calorii": "325",
+          "proteine": "14.3",
+          "lipide": "14",
+          "carbohidrati": "55.9",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Drojdie proaspata",
+          "calorii": "105",
+          "proteine": "8.4",
+          "lipide": "1.9",
+          "carbohidrati": "18.1",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Dulceata de ardei iute Bunatati de Topoloveni",
+          "calorii": "236.1",
+          "proteine": "0.5",
+          "lipide": "0",
+          "carbohidrati": "57",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Frunze de patrunjel",
+          "calorii": "36",
+          "proteine": "3",
+          "lipide": "0.8",
+          "carbohidrati": "6.3",
+          "fibre": "3.3",
+          "aproximari": "1 legatura = 30 g"
+     },
+     {
+          "aliment": "Ghimbir macinat Kotanyi",
+          "calorii": "316",
+          "proteine": "7.4",
+          "lipide": "3.3",
+          "carbohidrati": "60",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Granule usturoi",
+          "calorii": "332",
+          "proteine": "16.8",
+          "lipide": "0.8",
+          "carbohidrati": "72.7",
+          "fibre": "9.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ideea zilei baza pentru pui fraget cu usturoi Maggi",
+          "calorii": "112",
+          "proteine": "11.1",
+          "lipide": "6.6",
+          "carbohidrati": "2.1",
+          "fibre": "0.2",
+          "aproximari": "1 plic = 36 g"
+     },
+     {
+          "aliment": "Indulcitor de masa natural Steviolina",
+          "calorii": "362",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "90",
+          "fibre": "1",
+          "aproximari": "1 lingurita = 2.5 g"
+     },
+     {
+          "aliment": "Jeleuri de ghimbir Sanovita",
+          "calorii": "365.8",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "90.2",
+          "fibre": "2.4",
+          "aproximari": "1 cutie = 100 g"
+     },
+     {
+          "aliment": "Ketchup Bavaria Hellmann's",
+          "calorii": "105",
+          "proteine": "1.6",
+          "lipide": "0.1",
+          "carbohidrati": "24",
+          "fibre": "0.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup dulce Olympia",
+          "calorii": "49",
+          "proteine": "1",
+          "lipide": "0",
+          "carbohidrati": "11.2",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup picant Heinz Hot",
+          "calorii": "104",
+          "proteine": "1",
+          "lipide": "0.1",
+          "carbohidrati": "24.2",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Leustean",
+          "calorii": "37",
+          "proteine": "3",
+          "lipide": "0.8",
+          "carbohidrati": "6.4",
+          "fibre": "2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Maioneza cu ou 365",
+          "calorii": "727",
+          "proteine": "1.2",
+          "lipide": "80.1",
+          "carbohidrati": "0.4",
+          "fibre": "0",
+          "aproximari": "1 borcan = 470 g"
+     },
+     {
+          "aliment": "Marar uscat",
+          "calorii": "253",
+          "proteine": "20",
+          "lipide": "4.4",
+          "carbohidrati": "55.8",
+          "fibre": "13.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar",
+          "calorii": "67",
+          "proteine": "4",
+          "lipide": "4",
+          "carbohidrati": "5",
+          "fibre": "3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Bunica",
+          "calorii": "113",
+          "proteine": "5",
+          "lipide": "5",
+          "carbohidrati": "12",
+          "fibre": "2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Kamis",
+          "calorii": "97",
+          "proteine": "5.1",
+          "lipide": "5.7",
+          "carbohidrati": "6.4",
+          "fibre": "1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic la borcan Carrefour",
+          "calorii": "114.4",
+          "proteine": "4",
+          "lipide": "6.6",
+          "carbohidrati": "9.7",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Maggi",
+          "calorii": "75",
+          "proteine": "5.4",
+          "lipide": "5.2",
+          "carbohidrati": "4.5",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Regal",
+          "calorii": "117",
+          "proteine": "4",
+          "lipide": "4.5",
+          "carbohidrati": "14",
+          "fibre": "2.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Dijon Kamis",
+          "calorii": "146",
+          "proteine": "7.4",
+          "lipide": "11",
+          "carbohidrati": "2.8",
+          "fibre": "0",
+          "aproximari": "1n borcan = 185 g"
+     },
+     {
+          "aliment": "Mustar frantuzesc Carrefour",
+          "calorii": "147",
+          "proteine": "8.5",
+          "lipide": "8.2",
+          "carbohidrati": "9.5",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Heinz",
+          "calorii": "116",
+          "proteine": "6.5",
+          "lipide": "6",
+          "carbohidrati": "7.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar K-Classic",
+          "calorii": "110",
+          "proteine": "4.5",
+          "lipide": "6",
+          "carbohidrati": "9",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Nucsoara macinata",
+          "calorii": "525",
+          "proteine": "5.8",
+          "lipide": "36.3",
+          "carbohidrati": "49.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Otet balsamic Modena de nigris 8*",
+          "calorii": "33",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "6.7",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Otet din vin rosu Carrefour",
+          "calorii": "3.1",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "0.7",
+          "fibre": "0",
+          "aproximari": "1 sticla = 750 ml"
+     },
+     {
+          "aliment": "Pasta rodii Durra",
+          "calorii": "85",
+          "proteine": "0",
+          "lipide": "1",
+          "carbohidrati": "19",
+          "fibre": "0.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Piper cayenne chilli",
+          "calorii": "318",
+          "proteine": "12",
+          "lipide": "17.3",
+          "carbohidrati": "56.6",
+          "fibre": "27.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Radacina de turmeric",
+          "calorii": "354",
+          "proteine": "8",
+          "lipide": "10",
+          "carbohidrati": "65",
+          "fibre": "21.1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Rozmarin uscat",
+          "calorii": "331",
+          "proteine": "4.9",
+          "lipide": "15.2",
+          "carbohidrati": "64.1",
+          "fibre": "42.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Sare  cu ierburi Bio Greno",
+          "calorii": "39",
+          "proteine": "1.6",
+          "lipide": "1.6",
+          "carbohidrati": "4.3",
+          "fibre": "3.5",
+          "aproximari": "1 cutie = 125 g"
+     },
+     {
+          "aliment": "Scortisoara macinata",
+          "calorii": "261",
+          "proteine": "3.9",
+          "lipide": "3.2",
+          "carbohidrati": "79.8",
+          "fibre": "54.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Scortisoara macinata HoReCa",
+          "calorii": "317",
+          "proteine": "3.9",
+          "lipide": "3.2",
+          "carbohidrati": "56",
+          "fibre": "0",
+          "aproximari": "1 cutie = 250 g"
+     },
+     {
+          "aliment": "Sofran",
+          "calorii": "310",
+          "proteine": "11.4",
+          "lipide": "5.8",
+          "carbohidrati": "65.4",
+          "fibre": "3.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Tarhon frunze uscate",
+          "calorii": "295",
+          "proteine": "23",
+          "lipide": "7",
+          "carbohidrati": "50",
+          "fibre": "7",
+          "aproximari": "1 lingurita = 1 g"
+     },
+     {
+          "aliment": "Turmeric Sunlit",
+          "calorii": "422",
+          "proteine": "21.1",
+          "lipide": "9.9",
+          "carbohidrati": "64.9",
+          "fibre": "5",
+          "aproximari": "1 punga = 200 g"
+     },
+     {
+          "aliment": "Tzatziki Dr.Oetcker",
+          "calorii": "131",
+          "proteine": "3.5",
+          "lipide": "9.8",
+          "carbohidrati": "7.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Usturoi uscat",
+          "calorii": "331",
+          "proteine": "16.6",
+          "lipide": "0.7",
+          "carbohidrati": "72.7",
+          "fibre": "9",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Zahar aromat cu gust de scortisoara Bak Family",
+          "calorii": "398",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "99.5",
+          "fibre": "0",
+          "aproximari": " 1 cutie = 350 g"
+     },
+     {
+          "aliment": "Zahar pudra Margaritar",
+          "calorii": "389",
+          "proteine": "0",
+          "lipide": "0.1",
+          "carbohidrati": "99.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Adaos pentru mancaruri cu gust de gaina Vegeta Podravka",
+          "calorii": "148",
+          "proteine": "9.8",
+          "lipide": "0.5",
+          "carbohidrati": "26",
+          "fibre": "0",
+          "aproximari": "1 punga = 500 g"
+     },
+     {
+          "aliment": "Baza pentru aripioare picante Ideea Zilei Crocant din cuptor Maggie",
+          "calorii": "378",
+          "proteine": "12.6",
+          "lipide": "7.3",
+          "carbohidrati": "63",
+          "fibre": "4.7",
+          "aproximari": "1 punga = 80 g"
+     },
+     {
+          "aliment": "Baza pentru mancare cu legume Gustul de acasa Deli'Kat",
+          "calorii": "170",
+          "proteine": "7",
+          "lipide": "0.8",
+          "carbohidrati": "29",
+          "fibre": "3.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Baza pentru mancare legume Delikat",
+          "calorii": "120.3",
+          "proteine": "6.7",
+          "lipide": "0.7",
+          "carbohidrati": "21.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Boia de ardei dulce",
+          "calorii": "274",
+          "proteine": "14",
+          "lipide": "13.2",
+          "carbohidrati": "55",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Bors Magic cu legume Delikat",
+          "calorii": "199",
+          "proteine": "6",
+          "lipide": "0.8",
+          "carbohidrati": "24",
+          "fibre": "4",
+          "aproximari": "1 punga =  70 g"
+     },
+     {
+          "aliment": "Busuioc verde",
+          "calorii": "27",
+          "proteine": "2.5",
+          "lipide": "0.6",
+          "carbohidrati": "4.3",
+          "fibre": "3.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cacao neagra Witor's",
+          "calorii": "376",
+          "proteine": "18.9",
+          "lipide": "23",
+          "carbohidrati": "8.8",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Capere conservate",
+          "calorii": "23",
+          "proteine": "2.4",
+          "lipide": "0.9",
+          "carbohidrati": "4.9",
+          "fibre": "3.2",
+          "aproximari": "1 lingura = 5 g"
+     },
+     {
+          "aliment": "Ceapa deshidratata Fruit Orchard",
+          "calorii": "391",
+          "proteine": "8.9",
+          "lipide": "0.5",
+          "carbohidrati": "83.3",
+          "fibre": "45.9",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Chimen seminte",
+          "calorii": "333",
+          "proteine": "19.8",
+          "lipide": "14.6",
+          "carbohidrati": "49.9",
+          "fibre": "38",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Cimbru verde",
+          "calorii": "101",
+          "proteine": "5.6",
+          "lipide": "1.7",
+          "carbohidrati": "24.5",
+          "fibre": "14",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condiment cu ulei de masline Adazia",
+          "calorii": "106.2",
+          "proteine": "3.6",
+          "lipide": "0.3",
+          "carbohidrati": "22.2",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente amaranth Bio Solaris Plant",
+          "calorii": "374",
+          "proteine": "14.4",
+          "lipide": "6.5",
+          "carbohidrati": "66",
+          "fibre": "9.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente dressing garden - K Classic Kaufland",
+          "calorii": "25",
+          "proteine": "0.1",
+          "lipide": "0.1",
+          "carbohidrati": "5.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Condimente Secretul Gustului legume Maggi",
+          "calorii": "91",
+          "proteine": "5.2",
+          "lipide": "1.8",
+          "carbohidrati": "11.5",
+          "fibre": "0.6",
+          "aproximari": "200 gr punga"
+     },
+     {
+          "aliment": "Coriandru frunze",
+          "calorii": "23",
+          "proteine": "2.1",
+          "lipide": "0.5",
+          "carbohidrati": "3.7",
+          "fibre": "2.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Crema balsamica de Modena",
+          "calorii": "153",
+          "proteine": "1.4",
+          "lipide": "0.8",
+          "carbohidrati": "32.5",
+          "fibre": "0.2",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Cuisoare",
+          "calorii": "323",
+          "proteine": "6",
+          "lipide": "20.1",
+          "carbohidrati": "61.2",
+          "fibre": "34.2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Delik'at Gustul de acasa legume",
+          "calorii": "120.3",
+          "proteine": "6.7",
+          "lipide": "0.7",
+          "carbohidrati": "21.6",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Drojdie uscata",
+          "calorii": "295",
+          "proteine": "38.3",
+          "lipide": "4.6",
+          "carbohidrati": "38.2",
+          "fibre": "21",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Enibahar boabe",
+          "calorii": "263",
+          "proteine": "6.1",
+          "lipide": "8.7",
+          "carbohidrati": "72.1",
+          "fibre": "21.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ghimbir macinat",
+          "calorii": "347",
+          "proteine": "9.1",
+          "lipide": "6",
+          "carbohidrati": "70.8",
+          "fibre": "12.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ghimbir proaspat",
+          "calorii": "80",
+          "proteine": "1.8",
+          "lipide": "0.8",
+          "carbohidrati": "17.8",
+          "fibre": "2",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Hrean Pilos",
+          "calorii": "324",
+          "proteine": "3",
+          "lipide": "32",
+          "carbohidrati": "7",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ideea zilei baza pentru spaghete carbonara Maggi",
+          "calorii": "416",
+          "proteine": "13",
+          "lipide": "18.7",
+          "carbohidrati": "47.6",
+          "fibre": "3.4",
+          "aproximari": "1 punga = 40 g"
+     },
+     {
+          "aliment": "Inlocuitor lapte pudra pentru cafea Coffeeta",
+          "calorii": "517",
+          "proteine": "0.9",
+          "lipide": "73.4",
+          "carbohidrati": "24",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup",
+          "calorii": "109",
+          "proteine": "2",
+          "lipide": "0.3",
+          "carbohidrati": "24",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup dulce Gustile",
+          "calorii": "101",
+          "proteine": "0.5",
+          "lipide": "0.1",
+          "carbohidrati": "24.3",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Ketchup dulce Regal",
+          "calorii": "77",
+          "proteine": "0.7",
+          "lipide": "0",
+          "carbohidrati": "18.6",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Ketchup picant Regal",
+          "calorii": "80",
+          "proteine": "1",
+          "lipide": "0.1",
+          "carbohidrati": "18.5",
+          "fibre": "0.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Maghiran uscat",
+          "calorii": "271",
+          "proteine": "12.7",
+          "lipide": "7",
+          "carbohidrati": "60.6",
+          "fibre": "40.3",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Marar",
+          "calorii": "43",
+          "proteine": "3.5",
+          "lipide": "1.1",
+          "carbohidrati": "7",
+          "fibre": "2.1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Menta proaspata",
+          "calorii": "70",
+          "proteine": "3.8",
+          "lipide": "0.9",
+          "carbohidrati": "14.9",
+          "fibre": "8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar  Alimcom",
+          "calorii": "158.5",
+          "proteine": "9.6",
+          "lipide": "8.9",
+          "carbohidrati": "10",
+          "fibre": "0",
+          "aproximari": "1 tub = 100 g"
+     },
+     {
+          "aliment": "Mustar clasic Carrefour",
+          "calorii": "36",
+          "proteine": "4.5",
+          "lipide": "0.4",
+          "carbohidrati": "3.4",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic Knorr",
+          "calorii": "105",
+          "proteine": "4.5",
+          "lipide": "5.4",
+          "carbohidrati": "8.4",
+          "fibre": "0.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar clasic La Grande Famiglia",
+          "calorii": "54",
+          "proteine": "4.1",
+          "lipide": "2.4",
+          "carbohidrati": "2.1",
+          "fibre": "0",
+          "aproximari": "1 borcan = 300 g"
+     },
+     {
+          "aliment": "Mustar clasic Polimark",
+          "calorii": "130",
+          "proteine": "5",
+          "lipide": "5.8",
+          "carbohidrati": "14.4",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Mustar Dijon Carrefour",
+          "calorii": "147",
+          "proteine": "7.2",
+          "lipide": "11.5",
+          "carbohidrati": "3.6",
+          "fibre": "0",
+          "aproximari": "1 borcan = 270 g"
+     },
+     {
+          "aliment": "Mustar dulce Mikado",
+          "calorii": "102.1",
+          "proteine": "3.8",
+          "lipide": "4.1",
+          "carbohidrati": "10.8",
+          "fibre": "3",
+          "aproximari": "1 borcan = 300 g"
+     },
+     {
+          "aliment": "Mustar grill Benita",
+          "calorii": "131",
+          "proteine": "5",
+          "lipide": "5.8",
+          "carbohidrati": "7.2",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 10 g"
+     },
+     {
+          "aliment": "Mustar iute Lowensenf",
+          "calorii": "172",
+          "proteine": "9",
+          "lipide": "12.6",
+          "carbohidrati": "1.6",
+          "fibre": "0",
+          "aproximari": "1 borcan = 250 ml"
+     },
+     {
+          "aliment": "Mustar mici Univer",
+          "calorii": "108",
+          "proteine": "4.1",
+          "lipide": "4.7",
+          "carbohidrati": "10.8",
+          "fibre": "2.4",
+          "aproximari": "1 flacon = 440 g "
+     },
+     {
+          "aliment": "Oregano uscat",
+          "calorii": "306",
+          "proteine": "11",
+          "lipide": "10.3",
+          "carbohidrati": "64.4",
+          "fibre": "42.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Otet de visine Raureni",
+          "calorii": "14",
+          "proteine": "0.7",
+          "lipide": "0.2",
+          "carbohidrati": "2.5",
+          "fibre": "0",
+          "aproximari": "1 sticla = 0,5 l"
+     },
+     {
+          "aliment": "Paprika",
+          "calorii": "289",
+          "proteine": "14.8",
+          "lipide": "13",
+          "carbohidrati": "55.7",
+          "fibre": "37.4",
+          "aproximari": "1 lingurita = 6 g"
+     },
+     {
+          "aliment": "Patrunjel uscat",
+          "calorii": "276",
+          "proteine": "22.4",
+          "lipide": "4.4",
+          "carbohidrati": "51.7",
+          "fibre": "30.4",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Piper negru",
+          "calorii": "255",
+          "proteine": "11",
+          "lipide": "3.3",
+          "carbohidrati": "64.8",
+          "fibre": "26.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Rozmarin proaspat",
+          "calorii": "131",
+          "proteine": "3.3",
+          "lipide": "5.9",
+          "carbohidrati": "20.7",
+          "fibre": "14.1",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Rucola",
+          "calorii": "25",
+          "proteine": "2.6",
+          "lipide": "0.7",
+          "carbohidrati": "3.7",
+          "fibre": "1.6",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Sare de masa",
+          "calorii": "0",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "0",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Scortisoara macinata Alex",
+          "calorii": "472.6",
+          "proteine": "3.9",
+          "lipide": "3.2",
+          "carbohidrati": "79.9",
+          "fibre": "54.3",
+          "aproximari": "1 plic = 15 g"
+     },
+     {
+          "aliment": "Scortisoara macinata Orlando's",
+          "calorii": "456",
+          "proteine": "4",
+          "lipide": "1.2",
+          "carbohidrati": "80.6",
+          "fibre": "53.1",
+          "aproximari": "1 lingurita rasa = 2 g"
+     },
+     {
+          "aliment": "Sos soia Urtekram",
+          "calorii": "70",
+          "proteine": "8.9",
+          "lipide": "0",
+          "carbohidrati": "8.4",
+          "fibre": "0",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Tarhon frunze verzi",
+          "calorii": "49",
+          "proteine": "3",
+          "lipide": "1",
+          "carbohidrati": "6",
+          "fibre": "1.5",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Tzatziki",
+          "calorii": "54",
+          "proteine": "4",
+          "lipide": "0.4",
+          "carbohidrati": "8.6",
+          "fibre": "0.8",
+          "aproximari": ""
+     },
+     {
+          "aliment": "Usturoi",
+          "calorii": "149",
+          "proteine": "6.4",
+          "lipide": "0.5",
+          "carbohidrati": "33",
+          "fibre": "2.1",
+          "aproximari": "1 graunte = 3 g"
+     },
+     {
+          "aliment": "Vegeta Podravka",
+          "calorii": "137",
+          "proteine": "8.5",
+          "lipide": "0.6",
+          "carbohidrati": "24.5",
+          "fibre": "0",
+          "aproximari": "1 lingurita = 3 g"
+     },
+     {
+          "aliment": "Zahar cristal Diamant",
+          "calorii": "395",
+          "proteine": "0",
+          "lipide": "0",
+          "carbohidrati": "100",
+          "fibre": "0",
+          "aproximari": ""
+     }
+][
+    {
+        "aliment": " Sos de soia premium Cholimex",
+        "calorii": "9",
+        "proteine": "1.9",
+        "lipide": "0",
+        "carbohidrati": "0.2",
+        "fibre": "0",
+        "aproximari": "1 sticla = 500 ml"
+    },
+    {
+        "aliment": "Arpagic proaspat",
+        "calorii": "32",
+        "proteine": "1.8",
+        "lipide": "0.2",
+        "carbohidrati": "7.3",
+        "fibre": "2.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancare cu gust de gaina Delikat",
+        "calorii": "124.9",
+        "proteine": "8.4",
+        "lipide": "0.9",
+        "carbohidrati": "20.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancare gust de gaina Gustul de acasa Deli'Kat ",
+        "calorii": "140",
+        "proteine": "8",
+        "lipide": "0.9",
+        "carbohidrati": "19",
+        "fibre": "2.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancaruri Mirodenia Fuchs",
+        "calorii": "124",
+        "proteine": "5.3",
+        "lipide": "2",
+        "carbohidrati": "21.2",
+        "fibre": "9.8",
+        "aproximari": "1 plic = 75 g"
+    },
+    {
+        "aliment": "Bors cu verdeturi Magic Delikat",
+        "calorii": "227",
+        "proteine": "4.5",
+        "lipide": "4.5",
+        "carbohidrati": "32",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Busuioc uscat",
+        "calorii": "251",
+        "proteine": "14.4",
+        "lipide": "4",
+        "carbohidrati": "61",
+        "fibre": "40.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cacao calitate extra Dr. Oetker",
+        "calorii": "232",
+        "proteine": "22.3",
+        "lipide": "10.8",
+        "carbohidrati": "11.6",
+        "fibre": "0",
+        "aproximari": "1 plic = 50 g"
+    },
+    {
+        "aliment": "Cacao Van Houten",
+        "calorii": "366",
+        "proteine": "20",
+        "lipide": "21",
+        "carbohidrati": "8.7",
+        "fibre": "28",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cardamon",
+        "calorii": "311",
+        "proteine": "10.8",
+        "lipide": "6.7",
+        "carbohidrati": "68.5",
+        "fibre": "28",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Chili pudra",
+        "calorii": "314",
+        "proteine": "12.3",
+        "lipide": "16.8",
+        "carbohidrati": "54.7",
+        "fibre": "34.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cimbru uscat",
+        "calorii": "272",
+        "proteine": "7",
+        "lipide": "6",
+        "carbohidrati": "69",
+        "fibre": "46",
+        "aproximari": "1 lingurita = 1.4 g"
+    },
+    {
+        "aliment": "Condiment carne porc Galeo",
+        "calorii": "170",
+        "proteine": "10",
+        "lipide": "6.3",
+        "carbohidrati": "19",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condiment pentru pui Fuchs",
+        "calorii": "133",
+        "proteine": "7.3",
+        "lipide": "3.5",
+        "carbohidrati": "15.5",
+        "fibre": "5.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente cartofi cu sunca la cuptor Maggi",
+        "calorii": "338",
+        "proteine": "9.8",
+        "lipide": "13.5",
+        "carbohidrati": "43.9",
+        "fibre": "2.7",
+        "aproximari": "1 plic = 50 g"
+    },
+    {
+        "aliment": "Condimente pentru coaste la gratar Maggi",
+        "calorii": "262",
+        "proteine": "11.4",
+        "lipide": "3.2",
+        "carbohidrati": "43.9",
+        "fibre": "5.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente Secretul Gustului verdeturi Maggi",
+        "calorii": "124",
+        "proteine": "6.8",
+        "lipide": "3.2",
+        "carbohidrati": "16.2",
+        "fibre": "1.4",
+        "aproximari": "1 punga = 200 g"
+    },
+    {
+        "aliment": "Coriandru uscat",
+        "calorii": "279",
+        "proteine": "21.9",
+        "lipide": "4.8",
+        "carbohidrati": "52.1",
+        "fibre": "10.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cuburi bulion Gallina Blanca",
+        "calorii": "186",
+        "proteine": "3.9",
+        "lipide": "9",
+        "carbohidrati": "21.4",
+        "fibre": "0",
+        "aproximari": "1 cub = 10 g"
+    },
+    {
+        "aliment": "Curry pudra",
+        "calorii": "325",
+        "proteine": "14.3",
+        "lipide": "14",
+        "carbohidrati": "55.9",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Drojdie proaspata",
+        "calorii": "105",
+        "proteine": "8.4",
+        "lipide": "1.9",
+        "carbohidrati": "18.1",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Dulceata de ardei iute Bunatati de Topoloveni",
+        "calorii": "236.1",
+        "proteine": "0.5",
+        "lipide": "0",
+        "carbohidrati": "57",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Frunze de patrunjel",
+        "calorii": "36",
+        "proteine": "3",
+        "lipide": "0.8",
+        "carbohidrati": "6.3",
+        "fibre": "3.3",
+        "aproximari": "1 legatura = 30 g"
+    },
+    {
+        "aliment": "Ghimbir macinat Kotanyi",
+        "calorii": "316",
+        "proteine": "7.4",
+        "lipide": "3.3",
+        "carbohidrati": "60",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Granule usturoi",
+        "calorii": "332",
+        "proteine": "16.8",
+        "lipide": "0.8",
+        "carbohidrati": "72.7",
+        "fibre": "9.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ideea zilei baza pentru pui fraget cu usturoi Maggi",
+        "calorii": "112",
+        "proteine": "11.1",
+        "lipide": "6.6",
+        "carbohidrati": "2.1",
+        "fibre": "0.2",
+        "aproximari": "1 plic = 36 g"
+    },
+    {
+        "aliment": "Indulcitor de masa natural Steviolina",
+        "calorii": "362",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "90",
+        "fibre": "1",
+        "aproximari": "1 lingurita = 2.5 g"
+    },
+    {
+        "aliment": "Jeleuri de ghimbir Sanovita",
+        "calorii": "365.8",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "90.2",
+        "fibre": "2.4",
+        "aproximari": "1 cutie = 100 g"
+    },
+    {
+        "aliment": "Ketchup Bavaria Hellmann's",
+        "calorii": "105",
+        "proteine": "1.6",
+        "lipide": "0.1",
+        "carbohidrati": "24",
+        "fibre": "0.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup dulce Olympia",
+        "calorii": "49",
+        "proteine": "1",
+        "lipide": "0",
+        "carbohidrati": "11.2",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup picant Heinz Hot",
+        "calorii": "104",
+        "proteine": "1",
+        "lipide": "0.1",
+        "carbohidrati": "24.2",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Leustean",
+        "calorii": "37",
+        "proteine": "3",
+        "lipide": "0.8",
+        "carbohidrati": "6.4",
+        "fibre": "2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Maioneza cu ou 365",
+        "calorii": "727",
+        "proteine": "1.2",
+        "lipide": "80.1",
+        "carbohidrati": "0.4",
+        "fibre": "0",
+        "aproximari": "1 borcan = 470 g"
+    },
+    {
+        "aliment": "Marar uscat",
+        "calorii": "253",
+        "proteine": "20",
+        "lipide": "4.4",
+        "carbohidrati": "55.8",
+        "fibre": "13.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar",
+        "calorii": "67",
+        "proteine": "4",
+        "lipide": "4",
+        "carbohidrati": "5",
+        "fibre": "3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Bunica",
+        "calorii": "113",
+        "proteine": "5",
+        "lipide": "5",
+        "carbohidrati": "12",
+        "fibre": "2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Kamis",
+        "calorii": "97",
+        "proteine": "5.1",
+        "lipide": "5.7",
+        "carbohidrati": "6.4",
+        "fibre": "1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic la borcan Carrefour",
+        "calorii": "114.4",
+        "proteine": "4",
+        "lipide": "6.6",
+        "carbohidrati": "9.7",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Maggi",
+        "calorii": "75",
+        "proteine": "5.4",
+        "lipide": "5.2",
+        "carbohidrati": "4.5",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Regal",
+        "calorii": "117",
+        "proteine": "4",
+        "lipide": "4.5",
+        "carbohidrati": "14",
+        "fibre": "2.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Dijon Kamis",
+        "calorii": "146",
+        "proteine": "7.4",
+        "lipide": "11",
+        "carbohidrati": "2.8",
+        "fibre": "0",
+        "aproximari": "1n borcan = 185 g"
+    },
+    {
+        "aliment": "Mustar frantuzesc Carrefour",
+        "calorii": "147",
+        "proteine": "8.5",
+        "lipide": "8.2",
+        "carbohidrati": "9.5",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Heinz",
+        "calorii": "116",
+        "proteine": "6.5",
+        "lipide": "6",
+        "carbohidrati": "7.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar K-Classic",
+        "calorii": "110",
+        "proteine": "4.5",
+        "lipide": "6",
+        "carbohidrati": "9",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Nucsoara macinata",
+        "calorii": "525",
+        "proteine": "5.8",
+        "lipide": "36.3",
+        "carbohidrati": "49.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Otet balsamic Modena de nigris 8*",
+        "calorii": "33",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "6.7",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Otet din vin rosu Carrefour",
+        "calorii": "3.1",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "0.7",
+        "fibre": "0",
+        "aproximari": "1 sticla = 750 ml"
+    },
+    {
+        "aliment": "Pasta rodii Durra",
+        "calorii": "85",
+        "proteine": "0",
+        "lipide": "1",
+        "carbohidrati": "19",
+        "fibre": "0.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Piper cayenne chilli",
+        "calorii": "318",
+        "proteine": "12",
+        "lipide": "17.3",
+        "carbohidrati": "56.6",
+        "fibre": "27.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Radacina de turmeric",
+        "calorii": "354",
+        "proteine": "8",
+        "lipide": "10",
+        "carbohidrati": "65",
+        "fibre": "21.1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Rozmarin uscat",
+        "calorii": "331",
+        "proteine": "4.9",
+        "lipide": "15.2",
+        "carbohidrati": "64.1",
+        "fibre": "42.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Sare  cu ierburi Bio Greno",
+        "calorii": "39",
+        "proteine": "1.6",
+        "lipide": "1.6",
+        "carbohidrati": "4.3",
+        "fibre": "3.5",
+        "aproximari": "1 cutie = 125 g"
+    },
+    {
+        "aliment": "Scortisoara macinata",
+        "calorii": "261",
+        "proteine": "3.9",
+        "lipide": "3.2",
+        "carbohidrati": "79.8",
+        "fibre": "54.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Scortisoara macinata HoReCa",
+        "calorii": "317",
+        "proteine": "3.9",
+        "lipide": "3.2",
+        "carbohidrati": "56",
+        "fibre": "0",
+        "aproximari": "1 cutie = 250 g"
+    },
+    {
+        "aliment": "Sofran",
+        "calorii": "310",
+        "proteine": "11.4",
+        "lipide": "5.8",
+        "carbohidrati": "65.4",
+        "fibre": "3.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Tarhon frunze uscate",
+        "calorii": "295",
+        "proteine": "23",
+        "lipide": "7",
+        "carbohidrati": "50",
+        "fibre": "7",
+        "aproximari": "1 lingurita = 1 g"
+    },
+    {
+        "aliment": "Turmeric Sunlit",
+        "calorii": "422",
+        "proteine": "21.1",
+        "lipide": "9.9",
+        "carbohidrati": "64.9",
+        "fibre": "5",
+        "aproximari": "1 punga = 200 g"
+    },
+    {
+        "aliment": "Tzatziki Dr.Oetcker",
+        "calorii": "131",
+        "proteine": "3.5",
+        "lipide": "9.8",
+        "carbohidrati": "7.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Usturoi uscat",
+        "calorii": "331",
+        "proteine": "16.6",
+        "lipide": "0.7",
+        "carbohidrati": "72.7",
+        "fibre": "9",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Zahar aromat cu gust de scortisoara Bak Family",
+        "calorii": "398",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "99.5",
+        "fibre": "0",
+        "aproximari": " 1 cutie = 350 g"
+    },
+    {
+        "aliment": "Zahar pudra Margaritar",
+        "calorii": "389",
+        "proteine": "0",
+        "lipide": "0.1",
+        "carbohidrati": "99.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Adaos pentru mancaruri cu gust de gaina Vegeta Podravka",
+        "calorii": "148",
+        "proteine": "9.8",
+        "lipide": "0.5",
+        "carbohidrati": "26",
+        "fibre": "0",
+        "aproximari": "1 punga = 500 g"
+    },
+    {
+        "aliment": "Baza pentru aripioare picante Ideea Zilei Crocant din cuptor Maggie",
+        "calorii": "378",
+        "proteine": "12.6",
+        "lipide": "7.3",
+        "carbohidrati": "63",
+        "fibre": "4.7",
+        "aproximari": "1 punga = 80 g"
+    },
+    {
+        "aliment": "Baza pentru mancare cu legume Gustul de acasa Deli'Kat",
+        "calorii": "170",
+        "proteine": "7",
+        "lipide": "0.8",
+        "carbohidrati": "29",
+        "fibre": "3.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancare legume Delikat",
+        "calorii": "120.3",
+        "proteine": "6.7",
+        "lipide": "0.7",
+        "carbohidrati": "21.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Boia de ardei dulce",
+        "calorii": "274",
+        "proteine": "14",
+        "lipide": "13.2",
+        "carbohidrati": "55",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Bors Magic cu legume Delikat",
+        "calorii": "199",
+        "proteine": "6",
+        "lipide": "0.8",
+        "carbohidrati": "24",
+        "fibre": "4",
+        "aproximari": "1 punga =  70 g"
+    },
+    {
+        "aliment": "Busuioc verde",
+        "calorii": "27",
+        "proteine": "2.5",
+        "lipide": "0.6",
+        "carbohidrati": "4.3",
+        "fibre": "3.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cacao neagra Witor's",
+        "calorii": "376",
+        "proteine": "18.9",
+        "lipide": "23",
+        "carbohidrati": "8.8",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Capere conservate",
+        "calorii": "23",
+        "proteine": "2.4",
+        "lipide": "0.9",
+        "carbohidrati": "4.9",
+        "fibre": "3.2",
+        "aproximari": "1 lingura = 5 g"
+    },
+    {
+        "aliment": "Ceapa deshidratata Fruit Orchard",
+        "calorii": "391",
+        "proteine": "8.9",
+        "lipide": "0.5",
+        "carbohidrati": "83.3",
+        "fibre": "45.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Chimen seminte",
+        "calorii": "333",
+        "proteine": "19.8",
+        "lipide": "14.6",
+        "carbohidrati": "49.9",
+        "fibre": "38",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cimbru verde",
+        "calorii": "101",
+        "proteine": "5.6",
+        "lipide": "1.7",
+        "carbohidrati": "24.5",
+        "fibre": "14",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condiment cu ulei de masline Adazia",
+        "calorii": "106.2",
+        "proteine": "3.6",
+        "lipide": "0.3",
+        "carbohidrati": "22.2",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente amaranth Bio Solaris Plant",
+        "calorii": "374",
+        "proteine": "14.4",
+        "lipide": "6.5",
+        "carbohidrati": "66",
+        "fibre": "9.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente dressing garden - K Classic Kaufland",
+        "calorii": "25",
+        "proteine": "0.1",
+        "lipide": "0.1",
+        "carbohidrati": "5.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente Secretul Gustului legume Maggi",
+        "calorii": "91",
+        "proteine": "5.2",
+        "lipide": "1.8",
+        "carbohidrati": "11.5",
+        "fibre": "0.6",
+        "aproximari": "200 gr punga"
+    },
+    {
+        "aliment": "Coriandru frunze",
+        "calorii": "23",
+        "proteine": "2.1",
+        "lipide": "0.5",
+        "carbohidrati": "3.7",
+        "fibre": "2.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Crema balsamica de Modena",
+        "calorii": "153",
+        "proteine": "1.4",
+        "lipide": "0.8",
+        "carbohidrati": "32.5",
+        "fibre": "0.2",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Cuisoare",
+        "calorii": "323",
+        "proteine": "6",
+        "lipide": "20.1",
+        "carbohidrati": "61.2",
+        "fibre": "34.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Delik'at Gustul de acasa legume",
+        "calorii": "120.3",
+        "proteine": "6.7",
+        "lipide": "0.7",
+        "carbohidrati": "21.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Drojdie uscata",
+        "calorii": "295",
+        "proteine": "38.3",
+        "lipide": "4.6",
+        "carbohidrati": "38.2",
+        "fibre": "21",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Enibahar boabe",
+        "calorii": "263",
+        "proteine": "6.1",
+        "lipide": "8.7",
+        "carbohidrati": "72.1",
+        "fibre": "21.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ghimbir macinat",
+        "calorii": "347",
+        "proteine": "9.1",
+        "lipide": "6",
+        "carbohidrati": "70.8",
+        "fibre": "12.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ghimbir proaspat",
+        "calorii": "80",
+        "proteine": "1.8",
+        "lipide": "0.8",
+        "carbohidrati": "17.8",
+        "fibre": "2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Hrean Pilos",
+        "calorii": "324",
+        "proteine": "3",
+        "lipide": "32",
+        "carbohidrati": "7",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ideea zilei baza pentru spaghete carbonara Maggi",
+        "calorii": "416",
+        "proteine": "13",
+        "lipide": "18.7",
+        "carbohidrati": "47.6",
+        "fibre": "3.4",
+        "aproximari": "1 punga = 40 g"
+    },
+    {
+        "aliment": "Inlocuitor lapte pudra pentru cafea Coffeeta",
+        "calorii": "517",
+        "proteine": "0.9",
+        "lipide": "73.4",
+        "carbohidrati": "24",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup",
+        "calorii": "109",
+        "proteine": "2",
+        "lipide": "0.3",
+        "carbohidrati": "24",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup dulce Gustile",
+        "calorii": "101",
+        "proteine": "0.5",
+        "lipide": "0.1",
+        "carbohidrati": "24.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup dulce Regal",
+        "calorii": "77",
+        "proteine": "0.7",
+        "lipide": "0",
+        "carbohidrati": "18.6",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Ketchup picant Regal",
+        "calorii": "80",
+        "proteine": "1",
+        "lipide": "0.1",
+        "carbohidrati": "18.5",
+        "fibre": "0.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Maghiran uscat",
+        "calorii": "271",
+        "proteine": "12.7",
+        "lipide": "7",
+        "carbohidrati": "60.6",
+        "fibre": "40.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Marar",
+        "calorii": "43",
+        "proteine": "3.5",
+        "lipide": "1.1",
+        "carbohidrati": "7",
+        "fibre": "2.1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Menta proaspata",
+        "calorii": "70",
+        "proteine": "3.8",
+        "lipide": "0.9",
+        "carbohidrati": "14.9",
+        "fibre": "8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar  Alimcom",
+        "calorii": "158.5",
+        "proteine": "9.6",
+        "lipide": "8.9",
+        "carbohidrati": "10",
+        "fibre": "0",
+        "aproximari": "1 tub = 100 g"
+    },
+    {
+        "aliment": "Mustar clasic Carrefour",
+        "calorii": "36",
+        "proteine": "4.5",
+        "lipide": "0.4",
+        "carbohidrati": "3.4",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Knorr",
+        "calorii": "105",
+        "proteine": "4.5",
+        "lipide": "5.4",
+        "carbohidrati": "8.4",
+        "fibre": "0.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic La Grande Famiglia",
+        "calorii": "54",
+        "proteine": "4.1",
+        "lipide": "2.4",
+        "carbohidrati": "2.1",
+        "fibre": "0",
+        "aproximari": "1 borcan = 300 g"
+    },
+    {
+        "aliment": "Mustar clasic Polimark",
+        "calorii": "130",
+        "proteine": "5",
+        "lipide": "5.8",
+        "carbohidrati": "14.4",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Dijon Carrefour",
+        "calorii": "147",
+        "proteine": "7.2",
+        "lipide": "11.5",
+        "carbohidrati": "3.6",
+        "fibre": "0",
+        "aproximari": "1 borcan = 270 g"
+    },
+    {
+        "aliment": "Mustar dulce Mikado",
+        "calorii": "102.1",
+        "proteine": "3.8",
+        "lipide": "4.1",
+        "carbohidrati": "10.8",
+        "fibre": "3",
+        "aproximari": "1 borcan = 300 g"
+    },
+    {
+        "aliment": "Mustar grill Benita",
+        "calorii": "131",
+        "proteine": "5",
+        "lipide": "5.8",
+        "carbohidrati": "7.2",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Mustar iute Lowensenf",
+        "calorii": "172",
+        "proteine": "9",
+        "lipide": "12.6",
+        "carbohidrati": "1.6",
+        "fibre": "0",
+        "aproximari": "1 borcan = 250 ml"
+    },
+    {
+        "aliment": "Mustar mici Univer",
+        "calorii": "108",
+        "proteine": "4.1",
+        "lipide": "4.7",
+        "carbohidrati": "10.8",
+        "fibre": "2.4",
+        "aproximari": "1 flacon = 440 g "
+    },
+    {
+        "aliment": "Oregano uscat",
+        "calorii": "306",
+        "proteine": "11",
+        "lipide": "10.3",
+        "carbohidrati": "64.4",
+        "fibre": "42.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Otet de visine Raureni",
+        "calorii": "14",
+        "proteine": "0.7",
+        "lipide": "0.2",
+        "carbohidrati": "2.5",
+        "fibre": "0",
+        "aproximari": "1 sticla = 0,5 l"
+    },
+    {
+        "aliment": "Paprika",
+        "calorii": "289",
+        "proteine": "14.8",
+        "lipide": "13",
+        "carbohidrati": "55.7",
+        "fibre": "37.4",
+        "aproximari": "1 lingurita = 6 g"
+    },
+    {
+        "aliment": "Patrunjel uscat",
+        "calorii": "276",
+        "proteine": "22.4",
+        "lipide": "4.4",
+        "carbohidrati": "51.7",
+        "fibre": "30.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Piper negru",
+        "calorii": "255",
+        "proteine": "11",
+        "lipide": "3.3",
+        "carbohidrati": "64.8",
+        "fibre": "26.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Rozmarin proaspat",
+        "calorii": "131",
+        "proteine": "3.3",
+        "lipide": "5.9",
+        "carbohidrati": "20.7",
+        "fibre": "14.1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Rucola",
+        "calorii": "25",
+        "proteine": "2.6",
+        "lipide": "0.7",
+        "carbohidrati": "3.7",
+        "fibre": "1.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Sare de masa",
+        "calorii": "0",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "0",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Scortisoara macinata Alex",
+        "calorii": "472.6",
+        "proteine": "3.9",
+        "lipide": "3.2",
+        "carbohidrati": "79.9",
+        "fibre": "54.3",
+        "aproximari": "1 plic = 15 g"
+    },
+    {
+        "aliment": "Scortisoara macinata Orlando's",
+        "calorii": "456",
+        "proteine": "4",
+        "lipide": "1.2",
+        "carbohidrati": "80.6",
+        "fibre": "53.1",
+        "aproximari": "1 lingurita rasa = 2 g"
+    },
+    {
+        "aliment": "Sos soia Urtekram",
+        "calorii": "70",
+        "proteine": "8.9",
+        "lipide": "0",
+        "carbohidrati": "8.4",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Tarhon frunze verzi",
+        "calorii": "49",
+        "proteine": "3",
+        "lipide": "1",
+        "carbohidrati": "6",
+        "fibre": "1.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Tzatziki",
+        "calorii": "54",
+        "proteine": "4",
+        "lipide": "0.4",
+        "carbohidrati": "8.6",
+        "fibre": "0.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Usturoi",
+        "calorii": "149",
+        "proteine": "6.4",
+        "lipide": "0.5",
+        "carbohidrati": "33",
+        "fibre": "2.1",
+        "aproximari": "1 graunte = 3 g"
+    },
+    {
+        "aliment": "Vegeta Podravka",
+        "calorii": "137",
+        "proteine": "8.5",
+        "lipide": "0.6",
+        "carbohidrati": "24.5",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 3 g"
+    },
+    {
+        "aliment": "Zahar cristal Diamant",
+        "calorii": "395",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "100",
+        "fibre": "0",
+        "aproximari": ""
+    }
+][
+    {
+        "aliment": " Sos de soia premium Cholimex",
+        "calorii": "9",
+        "proteine": "1.9",
+        "lipide": "0",
+        "carbohidrati": "0.2",
+        "fibre": "0",
+        "aproximari": "1 sticla = 500 ml"
+    },
+    {
+        "aliment": "Arpagic proaspat",
+        "calorii": "32",
+        "proteine": "1.8",
+        "lipide": "0.2",
+        "carbohidrati": "7.3",
+        "fibre": "2.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancare cu gust de gaina Delikat",
+        "calorii": "124.9",
+        "proteine": "8.4",
+        "lipide": "0.9",
+        "carbohidrati": "20.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancare gust de gaina Gustul de acasa Deli'Kat ",
+        "calorii": "140",
+        "proteine": "8",
+        "lipide": "0.9",
+        "carbohidrati": "19",
+        "fibre": "2.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancaruri Mirodenia Fuchs",
+        "calorii": "124",
+        "proteine": "5.3",
+        "lipide": "2",
+        "carbohidrati": "21.2",
+        "fibre": "9.8",
+        "aproximari": "1 plic = 75 g"
+    },
+    {
+        "aliment": "Bors cu verdeturi Magic Delikat",
+        "calorii": "227",
+        "proteine": "4.5",
+        "lipide": "4.5",
+        "carbohidrati": "32",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Busuioc uscat",
+        "calorii": "251",
+        "proteine": "14.4",
+        "lipide": "4",
+        "carbohidrati": "61",
+        "fibre": "40.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cacao calitate extra Dr. Oetker",
+        "calorii": "232",
+        "proteine": "22.3",
+        "lipide": "10.8",
+        "carbohidrati": "11.6",
+        "fibre": "0",
+        "aproximari": "1 plic = 50 g"
+    },
+    {
+        "aliment": "Cacao Van Houten",
+        "calorii": "366",
+        "proteine": "20",
+        "lipide": "21",
+        "carbohidrati": "8.7",
+        "fibre": "28",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cardamon",
+        "calorii": "311",
+        "proteine": "10.8",
+        "lipide": "6.7",
+        "carbohidrati": "68.5",
+        "fibre": "28",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Chili pudra",
+        "calorii": "314",
+        "proteine": "12.3",
+        "lipide": "16.8",
+        "carbohidrati": "54.7",
+        "fibre": "34.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cimbru uscat",
+        "calorii": "272",
+        "proteine": "7",
+        "lipide": "6",
+        "carbohidrati": "69",
+        "fibre": "46",
+        "aproximari": "1 lingurita = 1.4 g"
+    },
+    {
+        "aliment": "Condiment carne porc Galeo",
+        "calorii": "170",
+        "proteine": "10",
+        "lipide": "6.3",
+        "carbohidrati": "19",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condiment pentru pui Fuchs",
+        "calorii": "133",
+        "proteine": "7.3",
+        "lipide": "3.5",
+        "carbohidrati": "15.5",
+        "fibre": "5.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente cartofi cu sunca la cuptor Maggi",
+        "calorii": "338",
+        "proteine": "9.8",
+        "lipide": "13.5",
+        "carbohidrati": "43.9",
+        "fibre": "2.7",
+        "aproximari": "1 plic = 50 g"
+    },
+    {
+        "aliment": "Condimente pentru coaste la gratar Maggi",
+        "calorii": "262",
+        "proteine": "11.4",
+        "lipide": "3.2",
+        "carbohidrati": "43.9",
+        "fibre": "5.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente Secretul Gustului verdeturi Maggi",
+        "calorii": "124",
+        "proteine": "6.8",
+        "lipide": "3.2",
+        "carbohidrati": "16.2",
+        "fibre": "1.4",
+        "aproximari": "1 punga = 200 g"
+    },
+    {
+        "aliment": "Coriandru uscat",
+        "calorii": "279",
+        "proteine": "21.9",
+        "lipide": "4.8",
+        "carbohidrati": "52.1",
+        "fibre": "10.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cuburi bulion Gallina Blanca",
+        "calorii": "186",
+        "proteine": "3.9",
+        "lipide": "9",
+        "carbohidrati": "21.4",
+        "fibre": "0",
+        "aproximari": "1 cub = 10 g"
+    },
+    {
+        "aliment": "Curry pudra",
+        "calorii": "325",
+        "proteine": "14.3",
+        "lipide": "14",
+        "carbohidrati": "55.9",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Drojdie proaspata",
+        "calorii": "105",
+        "proteine": "8.4",
+        "lipide": "1.9",
+        "carbohidrati": "18.1",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Dulceata de ardei iute Bunatati de Topoloveni",
+        "calorii": "236.1",
+        "proteine": "0.5",
+        "lipide": "0",
+        "carbohidrati": "57",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Frunze de patrunjel",
+        "calorii": "36",
+        "proteine": "3",
+        "lipide": "0.8",
+        "carbohidrati": "6.3",
+        "fibre": "3.3",
+        "aproximari": "1 legatura = 30 g"
+    },
+    {
+        "aliment": "Ghimbir macinat Kotanyi",
+        "calorii": "316",
+        "proteine": "7.4",
+        "lipide": "3.3",
+        "carbohidrati": "60",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Granule usturoi",
+        "calorii": "332",
+        "proteine": "16.8",
+        "lipide": "0.8",
+        "carbohidrati": "72.7",
+        "fibre": "9.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ideea zilei baza pentru pui fraget cu usturoi Maggi",
+        "calorii": "112",
+        "proteine": "11.1",
+        "lipide": "6.6",
+        "carbohidrati": "2.1",
+        "fibre": "0.2",
+        "aproximari": "1 plic = 36 g"
+    },
+    {
+        "aliment": "Indulcitor de masa natural Steviolina",
+        "calorii": "362",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "90",
+        "fibre": "1",
+        "aproximari": "1 lingurita = 2.5 g"
+    },
+    {
+        "aliment": "Jeleuri de ghimbir Sanovita",
+        "calorii": "365.8",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "90.2",
+        "fibre": "2.4",
+        "aproximari": "1 cutie = 100 g"
+    },
+    {
+        "aliment": "Ketchup Bavaria Hellmann's",
+        "calorii": "105",
+        "proteine": "1.6",
+        "lipide": "0.1",
+        "carbohidrati": "24",
+        "fibre": "0.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup dulce Olympia",
+        "calorii": "49",
+        "proteine": "1",
+        "lipide": "0",
+        "carbohidrati": "11.2",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup picant Heinz Hot",
+        "calorii": "104",
+        "proteine": "1",
+        "lipide": "0.1",
+        "carbohidrati": "24.2",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Leustean",
+        "calorii": "37",
+        "proteine": "3",
+        "lipide": "0.8",
+        "carbohidrati": "6.4",
+        "fibre": "2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Maioneza cu ou 365",
+        "calorii": "727",
+        "proteine": "1.2",
+        "lipide": "80.1",
+        "carbohidrati": "0.4",
+        "fibre": "0",
+        "aproximari": "1 borcan = 470 g"
+    },
+    {
+        "aliment": "Marar uscat",
+        "calorii": "253",
+        "proteine": "20",
+        "lipide": "4.4",
+        "carbohidrati": "55.8",
+        "fibre": "13.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar",
+        "calorii": "67",
+        "proteine": "4",
+        "lipide": "4",
+        "carbohidrati": "5",
+        "fibre": "3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Bunica",
+        "calorii": "113",
+        "proteine": "5",
+        "lipide": "5",
+        "carbohidrati": "12",
+        "fibre": "2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Kamis",
+        "calorii": "97",
+        "proteine": "5.1",
+        "lipide": "5.7",
+        "carbohidrati": "6.4",
+        "fibre": "1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic la borcan Carrefour",
+        "calorii": "114.4",
+        "proteine": "4",
+        "lipide": "6.6",
+        "carbohidrati": "9.7",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Maggi",
+        "calorii": "75",
+        "proteine": "5.4",
+        "lipide": "5.2",
+        "carbohidrati": "4.5",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Regal",
+        "calorii": "117",
+        "proteine": "4",
+        "lipide": "4.5",
+        "carbohidrati": "14",
+        "fibre": "2.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Dijon Kamis",
+        "calorii": "146",
+        "proteine": "7.4",
+        "lipide": "11",
+        "carbohidrati": "2.8",
+        "fibre": "0",
+        "aproximari": "1n borcan = 185 g"
+    },
+    {
+        "aliment": "Mustar frantuzesc Carrefour",
+        "calorii": "147",
+        "proteine": "8.5",
+        "lipide": "8.2",
+        "carbohidrati": "9.5",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Heinz",
+        "calorii": "116",
+        "proteine": "6.5",
+        "lipide": "6",
+        "carbohidrati": "7.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar K-Classic",
+        "calorii": "110",
+        "proteine": "4.5",
+        "lipide": "6",
+        "carbohidrati": "9",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Nucsoara macinata",
+        "calorii": "525",
+        "proteine": "5.8",
+        "lipide": "36.3",
+        "carbohidrati": "49.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Otet balsamic Modena de nigris 8*",
+        "calorii": "33",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "6.7",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Otet din vin rosu Carrefour",
+        "calorii": "3.1",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "0.7",
+        "fibre": "0",
+        "aproximari": "1 sticla = 750 ml"
+    },
+    {
+        "aliment": "Pasta rodii Durra",
+        "calorii": "85",
+        "proteine": "0",
+        "lipide": "1",
+        "carbohidrati": "19",
+        "fibre": "0.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Piper cayenne chilli",
+        "calorii": "318",
+        "proteine": "12",
+        "lipide": "17.3",
+        "carbohidrati": "56.6",
+        "fibre": "27.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Radacina de turmeric",
+        "calorii": "354",
+        "proteine": "8",
+        "lipide": "10",
+        "carbohidrati": "65",
+        "fibre": "21.1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Rozmarin uscat",
+        "calorii": "331",
+        "proteine": "4.9",
+        "lipide": "15.2",
+        "carbohidrati": "64.1",
+        "fibre": "42.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Sare  cu ierburi Bio Greno",
+        "calorii": "39",
+        "proteine": "1.6",
+        "lipide": "1.6",
+        "carbohidrati": "4.3",
+        "fibre": "3.5",
+        "aproximari": "1 cutie = 125 g"
+    },
+    {
+        "aliment": "Scortisoara macinata",
+        "calorii": "261",
+        "proteine": "3.9",
+        "lipide": "3.2",
+        "carbohidrati": "79.8",
+        "fibre": "54.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Scortisoara macinata HoReCa",
+        "calorii": "317",
+        "proteine": "3.9",
+        "lipide": "3.2",
+        "carbohidrati": "56",
+        "fibre": "0",
+        "aproximari": "1 cutie = 250 g"
+    },
+    {
+        "aliment": "Sofran",
+        "calorii": "310",
+        "proteine": "11.4",
+        "lipide": "5.8",
+        "carbohidrati": "65.4",
+        "fibre": "3.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Tarhon frunze uscate",
+        "calorii": "295",
+        "proteine": "23",
+        "lipide": "7",
+        "carbohidrati": "50",
+        "fibre": "7",
+        "aproximari": "1 lingurita = 1 g"
+    },
+    {
+        "aliment": "Turmeric Sunlit",
+        "calorii": "422",
+        "proteine": "21.1",
+        "lipide": "9.9",
+        "carbohidrati": "64.9",
+        "fibre": "5",
+        "aproximari": "1 punga = 200 g"
+    },
+    {
+        "aliment": "Tzatziki Dr.Oetcker",
+        "calorii": "131",
+        "proteine": "3.5",
+        "lipide": "9.8",
+        "carbohidrati": "7.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Usturoi uscat",
+        "calorii": "331",
+        "proteine": "16.6",
+        "lipide": "0.7",
+        "carbohidrati": "72.7",
+        "fibre": "9",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Zahar aromat cu gust de scortisoara Bak Family",
+        "calorii": "398",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "99.5",
+        "fibre": "0",
+        "aproximari": " 1 cutie = 350 g"
+    },
+    {
+        "aliment": "Zahar pudra Margaritar",
+        "calorii": "389",
+        "proteine": "0",
+        "lipide": "0.1",
+        "carbohidrati": "99.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Adaos pentru mancaruri cu gust de gaina Vegeta Podravka",
+        "calorii": "148",
+        "proteine": "9.8",
+        "lipide": "0.5",
+        "carbohidrati": "26",
+        "fibre": "0",
+        "aproximari": "1 punga = 500 g"
+    },
+    {
+        "aliment": "Baza pentru aripioare picante Ideea Zilei Crocant din cuptor Maggie",
+        "calorii": "378",
+        "proteine": "12.6",
+        "lipide": "7.3",
+        "carbohidrati": "63",
+        "fibre": "4.7",
+        "aproximari": "1 punga = 80 g"
+    },
+    {
+        "aliment": "Baza pentru mancare cu legume Gustul de acasa Deli'Kat",
+        "calorii": "170",
+        "proteine": "7",
+        "lipide": "0.8",
+        "carbohidrati": "29",
+        "fibre": "3.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Baza pentru mancare legume Delikat",
+        "calorii": "120.3",
+        "proteine": "6.7",
+        "lipide": "0.7",
+        "carbohidrati": "21.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Boia de ardei dulce",
+        "calorii": "274",
+        "proteine": "14",
+        "lipide": "13.2",
+        "carbohidrati": "55",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Bors Magic cu legume Delikat",
+        "calorii": "199",
+        "proteine": "6",
+        "lipide": "0.8",
+        "carbohidrati": "24",
+        "fibre": "4",
+        "aproximari": "1 punga =  70 g"
+    },
+    {
+        "aliment": "Busuioc verde",
+        "calorii": "27",
+        "proteine": "2.5",
+        "lipide": "0.6",
+        "carbohidrati": "4.3",
+        "fibre": "3.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cacao neagra Witor's",
+        "calorii": "376",
+        "proteine": "18.9",
+        "lipide": "23",
+        "carbohidrati": "8.8",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Capere conservate",
+        "calorii": "23",
+        "proteine": "2.4",
+        "lipide": "0.9",
+        "carbohidrati": "4.9",
+        "fibre": "3.2",
+        "aproximari": "1 lingura = 5 g"
+    },
+    {
+        "aliment": "Ceapa deshidratata Fruit Orchard",
+        "calorii": "391",
+        "proteine": "8.9",
+        "lipide": "0.5",
+        "carbohidrati": "83.3",
+        "fibre": "45.9",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Chimen seminte",
+        "calorii": "333",
+        "proteine": "19.8",
+        "lipide": "14.6",
+        "carbohidrati": "49.9",
+        "fibre": "38",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Cimbru verde",
+        "calorii": "101",
+        "proteine": "5.6",
+        "lipide": "1.7",
+        "carbohidrati": "24.5",
+        "fibre": "14",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condiment cu ulei de masline Adazia",
+        "calorii": "106.2",
+        "proteine": "3.6",
+        "lipide": "0.3",
+        "carbohidrati": "22.2",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente amaranth Bio Solaris Plant",
+        "calorii": "374",
+        "proteine": "14.4",
+        "lipide": "6.5",
+        "carbohidrati": "66",
+        "fibre": "9.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente dressing garden - K Classic Kaufland",
+        "calorii": "25",
+        "proteine": "0.1",
+        "lipide": "0.1",
+        "carbohidrati": "5.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Condimente Secretul Gustului legume Maggi",
+        "calorii": "91",
+        "proteine": "5.2",
+        "lipide": "1.8",
+        "carbohidrati": "11.5",
+        "fibre": "0.6",
+        "aproximari": "200 gr punga"
+    },
+    {
+        "aliment": "Coriandru frunze",
+        "calorii": "23",
+        "proteine": "2.1",
+        "lipide": "0.5",
+        "carbohidrati": "3.7",
+        "fibre": "2.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Crema balsamica de Modena",
+        "calorii": "153",
+        "proteine": "1.4",
+        "lipide": "0.8",
+        "carbohidrati": "32.5",
+        "fibre": "0.2",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Cuisoare",
+        "calorii": "323",
+        "proteine": "6",
+        "lipide": "20.1",
+        "carbohidrati": "61.2",
+        "fibre": "34.2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Delik'at Gustul de acasa legume",
+        "calorii": "120.3",
+        "proteine": "6.7",
+        "lipide": "0.7",
+        "carbohidrati": "21.6",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Drojdie uscata",
+        "calorii": "295",
+        "proteine": "38.3",
+        "lipide": "4.6",
+        "carbohidrati": "38.2",
+        "fibre": "21",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Enibahar boabe",
+        "calorii": "263",
+        "proteine": "6.1",
+        "lipide": "8.7",
+        "carbohidrati": "72.1",
+        "fibre": "21.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ghimbir macinat",
+        "calorii": "347",
+        "proteine": "9.1",
+        "lipide": "6",
+        "carbohidrati": "70.8",
+        "fibre": "12.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ghimbir proaspat",
+        "calorii": "80",
+        "proteine": "1.8",
+        "lipide": "0.8",
+        "carbohidrati": "17.8",
+        "fibre": "2",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Hrean Pilos",
+        "calorii": "324",
+        "proteine": "3",
+        "lipide": "32",
+        "carbohidrati": "7",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ideea zilei baza pentru spaghete carbonara Maggi",
+        "calorii": "416",
+        "proteine": "13",
+        "lipide": "18.7",
+        "carbohidrati": "47.6",
+        "fibre": "3.4",
+        "aproximari": "1 punga = 40 g"
+    },
+    {
+        "aliment": "Inlocuitor lapte pudra pentru cafea Coffeeta",
+        "calorii": "517",
+        "proteine": "0.9",
+        "lipide": "73.4",
+        "carbohidrati": "24",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup",
+        "calorii": "109",
+        "proteine": "2",
+        "lipide": "0.3",
+        "carbohidrati": "24",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup dulce Gustile",
+        "calorii": "101",
+        "proteine": "0.5",
+        "lipide": "0.1",
+        "carbohidrati": "24.3",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Ketchup dulce Regal",
+        "calorii": "77",
+        "proteine": "0.7",
+        "lipide": "0",
+        "carbohidrati": "18.6",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Ketchup picant Regal",
+        "calorii": "80",
+        "proteine": "1",
+        "lipide": "0.1",
+        "carbohidrati": "18.5",
+        "fibre": "0.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Maghiran uscat",
+        "calorii": "271",
+        "proteine": "12.7",
+        "lipide": "7",
+        "carbohidrati": "60.6",
+        "fibre": "40.3",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Marar",
+        "calorii": "43",
+        "proteine": "3.5",
+        "lipide": "1.1",
+        "carbohidrati": "7",
+        "fibre": "2.1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Menta proaspata",
+        "calorii": "70",
+        "proteine": "3.8",
+        "lipide": "0.9",
+        "carbohidrati": "14.9",
+        "fibre": "8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar  Alimcom",
+        "calorii": "158.5",
+        "proteine": "9.6",
+        "lipide": "8.9",
+        "carbohidrati": "10",
+        "fibre": "0",
+        "aproximari": "1 tub = 100 g"
+    },
+    {
+        "aliment": "Mustar clasic Carrefour",
+        "calorii": "36",
+        "proteine": "4.5",
+        "lipide": "0.4",
+        "carbohidrati": "3.4",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic Knorr",
+        "calorii": "105",
+        "proteine": "4.5",
+        "lipide": "5.4",
+        "carbohidrati": "8.4",
+        "fibre": "0.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar clasic La Grande Famiglia",
+        "calorii": "54",
+        "proteine": "4.1",
+        "lipide": "2.4",
+        "carbohidrati": "2.1",
+        "fibre": "0",
+        "aproximari": "1 borcan = 300 g"
+    },
+    {
+        "aliment": "Mustar clasic Polimark",
+        "calorii": "130",
+        "proteine": "5",
+        "lipide": "5.8",
+        "carbohidrati": "14.4",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Mustar Dijon Carrefour",
+        "calorii": "147",
+        "proteine": "7.2",
+        "lipide": "11.5",
+        "carbohidrati": "3.6",
+        "fibre": "0",
+        "aproximari": "1 borcan = 270 g"
+    },
+    {
+        "aliment": "Mustar dulce Mikado",
+        "calorii": "102.1",
+        "proteine": "3.8",
+        "lipide": "4.1",
+        "carbohidrati": "10.8",
+        "fibre": "3",
+        "aproximari": "1 borcan = 300 g"
+    },
+    {
+        "aliment": "Mustar grill Benita",
+        "calorii": "131",
+        "proteine": "5",
+        "lipide": "5.8",
+        "carbohidrati": "7.2",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 10 g"
+    },
+    {
+        "aliment": "Mustar iute Lowensenf",
+        "calorii": "172",
+        "proteine": "9",
+        "lipide": "12.6",
+        "carbohidrati": "1.6",
+        "fibre": "0",
+        "aproximari": "1 borcan = 250 ml"
+    },
+    {
+        "aliment": "Mustar mici Univer",
+        "calorii": "108",
+        "proteine": "4.1",
+        "lipide": "4.7",
+        "carbohidrati": "10.8",
+        "fibre": "2.4",
+        "aproximari": "1 flacon = 440 g "
+    },
+    {
+        "aliment": "Oregano uscat",
+        "calorii": "306",
+        "proteine": "11",
+        "lipide": "10.3",
+        "carbohidrati": "64.4",
+        "fibre": "42.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Otet de visine Raureni",
+        "calorii": "14",
+        "proteine": "0.7",
+        "lipide": "0.2",
+        "carbohidrati": "2.5",
+        "fibre": "0",
+        "aproximari": "1 sticla = 0,5 l"
+    },
+    {
+        "aliment": "Paprika",
+        "calorii": "289",
+        "proteine": "14.8",
+        "lipide": "13",
+        "carbohidrati": "55.7",
+        "fibre": "37.4",
+        "aproximari": "1 lingurita = 6 g"
+    },
+    {
+        "aliment": "Patrunjel uscat",
+        "calorii": "276",
+        "proteine": "22.4",
+        "lipide": "4.4",
+        "carbohidrati": "51.7",
+        "fibre": "30.4",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Piper negru",
+        "calorii": "255",
+        "proteine": "11",
+        "lipide": "3.3",
+        "carbohidrati": "64.8",
+        "fibre": "26.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Rozmarin proaspat",
+        "calorii": "131",
+        "proteine": "3.3",
+        "lipide": "5.9",
+        "carbohidrati": "20.7",
+        "fibre": "14.1",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Rucola",
+        "calorii": "25",
+        "proteine": "2.6",
+        "lipide": "0.7",
+        "carbohidrati": "3.7",
+        "fibre": "1.6",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Sare de masa",
+        "calorii": "0",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "0",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Scortisoara macinata Alex",
+        "calorii": "472.6",
+        "proteine": "3.9",
+        "lipide": "3.2",
+        "carbohidrati": "79.9",
+        "fibre": "54.3",
+        "aproximari": "1 plic = 15 g"
+    },
+    {
+        "aliment": "Scortisoara macinata Orlando's",
+        "calorii": "456",
+        "proteine": "4",
+        "lipide": "1.2",
+        "carbohidrati": "80.6",
+        "fibre": "53.1",
+        "aproximari": "1 lingurita rasa = 2 g"
+    },
+    {
+        "aliment": "Sos soia Urtekram",
+        "calorii": "70",
+        "proteine": "8.9",
+        "lipide": "0",
+        "carbohidrati": "8.4",
+        "fibre": "0",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Tarhon frunze verzi",
+        "calorii": "49",
+        "proteine": "3",
+        "lipide": "1",
+        "carbohidrati": "6",
+        "fibre": "1.5",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Tzatziki",
+        "calorii": "54",
+        "proteine": "4",
+        "lipide": "0.4",
+        "carbohidrati": "8.6",
+        "fibre": "0.8",
+        "aproximari": ""
+    },
+    {
+        "aliment": "Usturoi",
+        "calorii": "149",
+        "proteine": "6.4",
+        "lipide": "0.5",
+        "carbohidrati": "33",
+        "fibre": "2.1",
+        "aproximari": "1 graunte = 3 g"
+    },
+    {
+        "aliment": "Vegeta Podravka",
+        "calorii": "137",
+        "proteine": "8.5",
+        "lipide": "0.6",
+        "carbohidrati": "24.5",
+        "fibre": "0",
+        "aproximari": "1 lingurita = 3 g"
+    },
+    {
+        "aliment": "Zahar cristal Diamant",
+        "calorii": "395",
+        "proteine": "0",
+        "lipide": "0",
+        "carbohidrati": "100",
+        "fibre": "0",
+        "aproximari": ""
+    }
+]
